@@ -1,0 +1,37 @@
+_repo: The-Seven-Plaits-of-Nettles-and-other-stories_63437
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Cowham, Hilda
+    aliases:
+    - Cowham, H. (Hilda)
+    - Lander, Mrs. Edgar
+    - Cowham, Hilda G.
+    - Lander, Hilda
+    birthdate: 1873
+    deathdate: 1964
+    gutenberg_agent_id: '45169'
+    url: http://www.gutenberg.org/2009/agents/45169
+  - agent_name: Lewis, T. Noyes
+    gutenberg_agent_id: '43618'
+    url: http://www.gutenberg.org/2009/agents/43618
+creator:
+  author:
+    agent_name: Vredenburg, Edric
+    alias: Vredenburg, E. (Edric)
+    birthdate: 1860
+    gutenberg_agent_id: '5877'
+    url: http://www.gutenberg.org/2009/agents/5877
+description: ''
+gutenberg_issued: '2020-10-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63437'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Seven Plaits of Nettles, and other stories
+url: http://www.gutenberg.org/ebooks/63437
